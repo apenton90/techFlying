@@ -14,7 +14,7 @@ public class UserServiceRest {
     */
     private static List<User> listaUsuarios = new ArrayList<User>() {
         {
-            add(new User("Rosa", "Marfil"));
+            add(new User("Rosa", "Mojon"));
             add(new User("Pepito", "Grillo"));
             add(new User("Manuela", "Lago"));
         }
